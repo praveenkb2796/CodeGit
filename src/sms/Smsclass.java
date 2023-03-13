@@ -17,6 +17,7 @@ public class Smsclass {
 		System.out.println("develop branch code");
 		System.out.println("develop branch code");
 		
+		System.out.println("American Architect commit");
 		
 	}
 
